@@ -135,7 +135,7 @@ O módulo regulador de tensão é um módulo que permite ajustar a tensão de sa
 ## 📄 Documentação
 
 Todo o projeto (ou pelo menos maior parte dele :x) foi documentado utilizando o JavaDoc. É possível ter acesso através
-do link: https://reedbluue.github.io/netunobo/docs
+do link: https://reedbluue.github.io/netunobo
 
 ## 🤝 Reconhecimentos
 
